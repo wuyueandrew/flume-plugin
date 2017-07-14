@@ -1,0 +1,26 @@
+*.class
+.gradle/
+build/
+classes/
+target/
+
+# IDE
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+classes/
+.idea/
+bin/
+out/
+
+# log
+logs/
+
+# vi
+*.swp
+
+# ios
+.DS_Store
